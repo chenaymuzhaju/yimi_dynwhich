@@ -1,11 +1,11 @@
 {
-  "name": "yimi_dywhich",
+  "name": "yimi_dynwhich",
   "version": "1.0.0",
-  "author": "ymi1111",
+  "author": "chenaymuzhaju",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ymi1111/yimi_dywhich"
+    "url": "https://github.com/chenaymuzhaju/yimi_dywhich"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
