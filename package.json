@@ -1,11 +1,11 @@
 {
   "name": "yimi_dynwhich",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "author": "chenaymuzhaju",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chenaymuzhaju/yimi_dywhich"
+    "url": "https://github.com/chenaymuzhaju/yimi_dynwhich"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -37,7 +37,17 @@
     "yimi_tables": "^1.0.0",
     "yimi_topython": "^1.0.0",
     "yimi_xiaochengxu": "^1.0.0",
-    "yimi_zen": "^1.0.0"
+    "yimi_zen": "^1.0.0",
+    "human-form": "^1.0.0",
+    "human-tables": "^1.0.0",
+    "human-tools": "^1.0.0",
+    "human-upload": "^1.0.0",
+    "mine-flower": "^1.0.0",
+    "mine-snap": "^1.0.0",
+    "mine-dianbao": "^1.0.0",
+    "mine-gongju": "^1.0.0",
+    "mine-utils-class": "^1.0.0",
+    "mine-wechat": "^1.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
